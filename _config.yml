@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Kiarash Sedghi Gh
+name: Kiarash Sedghi 
 title: Ph.D. student of Computer Science & Engineering at USF
 email: kiarashs@usf.edu
 gmail: kiarash.sedghi99@gmail.com
@@ -106,7 +106,7 @@ content:
 
   
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
