@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 #  I am most skilled in: <mark>Malware analysis</mark>, <mark>Binary exploitation</mark>, <mark>Reverse engineering</mark>.
 
-#content:
+content:
 # - title: Projects # Title for the section
 # layout: list # Type of content section (list/text)
 #    content:
@@ -102,7 +102,7 @@ about_content: | # this will include new lines to allow paragraphs
     - layout: left
         title: University of Isfahan, Iran
         caption: 2017 - 2021
-        sub_title: B.S.. Computer Science & Engineering
+        sub_title: B.S. Computer Science & Engineering
         description: | # this will include new lines to allow paragraphs
           Thesis: Smart Grid gateway- As B.S. thesis, I designed and implemented a gateway responsible for translating the two most-
           used protocols (standards) in the Smart Grid. Firstly, this gateway enables old and new devices using different standards to exist, and cooperate in an
