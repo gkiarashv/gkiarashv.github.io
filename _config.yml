@@ -90,7 +90,7 @@ content:
         caption: 2023 - present
         sub_title: Ph.D. Computer Science & Engineering
         description: | # this will include new lines to allow paragraphs
-          Ph.D. research in designing and utilizing cryptographic tools to enhance thesecurity of computer networks and systems under direction of Prof. <a href="https://cse.usf.edu/~attilaayavuz/">Attila A.Yavuz</a>
+          Ph.D. research in designing and utilizing cryptographic tools to enhance the security of computer networks and systems under direction of Prof. <a href="https://cse.usf.edu/~attilaayavuz/">Attila A.Yavuz</a>
       - layout: left
         title: University of Isfahan, Iran
         caption: 2017 - 2021
