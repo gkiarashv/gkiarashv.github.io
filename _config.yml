@@ -19,7 +19,7 @@ darkmode: true
 # Social links
 
 #twitter_username: facespics
-github_username:  gkiarashv
+
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -76,14 +76,14 @@ content:
         caption: 2023 - present
         sub_title: Ph.D. Computer Science & Engineering
         description: | # this will include new lines to allow paragraphs
-          Ph.D. research in designing and utilizing cryptographic tools to enhance the security of computer networks and systems under direction of Prof. <a href="https://cse.usf.edu/~attilaayavuz/">Attila A.Yavuz</a>
-      - layout: left
+
+- layout: left
         title: University of Isfahan, Iran
         caption: 2017 - 2021
         sub_title: B.S. Computer Science & Engineering
         description: | # this will include new lines to allow paragraphs
-          B.S. thesis in designing "Smart grid gateway" under direction of Prof. <a href="https://engold.ui.ac.ir/~shahgholi/">Behrouz Shahgholi Ghahfarokh</a>
-  
+
+
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
